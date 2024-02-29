@@ -11,9 +11,6 @@ RealSelf Scrapper is a Node.js script for scraping and downloading images from R
   - [Installation](#installation)
   - [Configuration](#configuration)
 - [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 

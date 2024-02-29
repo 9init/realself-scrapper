@@ -1,6 +1,6 @@
 # RealSelf Scrapper
 
-RealSelf Scrapper is a Node.js script for scraping and downloading images from RealSelf, focusing on the "porcelain-veneers" section.
+RealSelf Scrapper is a Node.js script for scraping and downloading images from [RealSelf](https://www.realself.com).
 
 ## Table of Contents
 

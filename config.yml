@@ -1,5 +1,7 @@
-baseUrl: 'https://www.realself.com/photos/' # The base URL of the website to scrape
+baseUrl: 'https://www.realself.com/photos/' # The base URL of the website to get the information from
+scrapeUrl: https://www.realself.com/photo/galleryFilter # The URL of the website to scrape
+bypassCache: true # Set to true to bypass the cache
 section: 'porcelain-veneers' # The section of the website to scrape
 startPage: 1 # always start at page 1
-endPage: 3 # edit this to scrape more or less pages
+endPage: 2 # edit this to scrape more or less pages
 userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'

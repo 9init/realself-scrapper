@@ -52,7 +52,9 @@ Configure the scraping behavior by editing the config.yml file:
 
 ```yaml
 baseUrl: 'https://www.realself.com/photos/'
+scrapeUrl: https://www.realself.com/photo/galleryFilter
 section: 'porcelain-veneers'
+bypassCache: true # Set to true to bypass the cache
 startPage: 1
 endPage: 3
 userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'

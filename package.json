@@ -1,0 +1,17 @@
+{
+  "name": "realself-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "1.0.0-rc.12",
+    "js-yaml": "^4.1.0"
+  }
+}
